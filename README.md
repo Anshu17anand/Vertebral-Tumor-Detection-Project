@@ -1,0 +1,1 @@
+to run : INFER_SCALE=0.6 DISPLAY_SCALE=1.2 GEMINI_OFF=1 OLLAMA_MODEL=llama3.1 python working.py
