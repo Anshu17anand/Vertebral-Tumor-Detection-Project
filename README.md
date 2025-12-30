@@ -103,6 +103,8 @@ The system integrates **tumor detection**, **voice-controlled movement**, and an
 ## 🎥 Demo
 
 📹 **Demo video & screenshots:**  
-_Link to be added_
+<img src="moonshot1.png" width="800" />
+<img src="moonshot2.png" width="800" />
+
 
 
